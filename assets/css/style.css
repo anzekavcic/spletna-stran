@@ -1,0 +1,39 @@
+body {
+    margin: 10;
+    padding: 10;
+}
+
+body div {
+    width: 100%;
+}
+
+.nav {
+    height: 100px;
+}
+
+.content {
+    height: 300px;
+}
+
+h1 {
+    font-size: 25px;
+    font-family: sans-serif;
+    text-align: left;
+    color: red;
+}
+
+
+.nav_content {
+    margin-left: 30%;
+}
+
+.nav_content h3 {
+    display: inline-block;
+    margin-left: 40px;
+    font-family: sans-serif;
+}
+
+body a {
+    text-decoration: none;
+    font-family: sans-serif;
+}
